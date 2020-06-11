@@ -10,7 +10,7 @@
 Composer
 
 ```bash
-composer require sklo-agency/clickhouse-builder
+composer require sayorus/clickhouse-builder
 ```
 
 # Using

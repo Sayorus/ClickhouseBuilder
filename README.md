@@ -11,7 +11,7 @@ https://travis-ci.org/esazykin/ClickhouseBuilder.svg?branch=master)](https://tra
 Via composer
 
 ```bash
-composer require sklo-agency/clickhouse-builder
+composer require sayorus/clickhouse-builder
 ```
 
 # Usage
